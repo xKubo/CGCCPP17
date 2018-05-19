@@ -21,12 +21,6 @@
     <ClInclude Include="targetver.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="UniSpan.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="UniBuilder.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
