@@ -95,7 +95,7 @@
       <LanguageStandard>stdcpp17</LanguageStandard>
       <WarningLevel>Level3</WarningLevel>
       <EnablePREfast>true</EnablePREfast>
-      <AdditionalIncludeDirectories>D:\VS2017Include\GSL\include</AdditionalIncludeDirectories>
+      <AdditionalIncludeDirectories>D:\VS2017Include\GSL\include;D:\VS2017Include\RangeV3\include</AdditionalIncludeDirectories>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
